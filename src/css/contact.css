@@ -1,0 +1,36 @@
+
+.contact
+{
+    margin-top: 5%;
+    margin-bottom: 2%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.social-icons li
+{
+  display:inline-block;
+  margin-bottom:4%;
+}
+
+
+.social-icons a{
+  color:#818a91;
+  font-size:16px;
+  display:inline-block;
+  line-height:44px;
+  width:44px;
+  height:44px;
+  text-align:center;
+  margin-right:8px;
+}
+.social-icons a:hover{
+  color:black;
+  text-decoration: none;
+}
+
+.contactQuote
+{
+font-family: 'Abril Fatface', cursive;
+margin-top:5%;
+margin-bottom:5%;
+}

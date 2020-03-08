@@ -1,0 +1,60 @@
+.timeline
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.timelineText
+{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.timeline-entry
+{
+    padding: 5%;
+}
+
+.colorlib-heading
+{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.timelinePhoto
+{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.coffee
+{
+    background-position:55% 65%;
+    background-size: 30%;
+    width:50%;
+    height:400px;
+}
+.mobile
+{
+    background-position:95% 85%;
+    background-size: 40% 80%;
+    width:50%;
+    height:560px;
+    background-color: black;
+}
+
+.typewriter1
+{
+    background-position:75% 55%;
+    background-size: 40%;
+    width:70%;
+    height:400px;
+    background-color:#D9CFC5;
+}
+.keyboard1 
+{
+    background-position:95% 5%;
+    background-size: 45% 80%;
+    width:120%;
+    height:260px;
+}

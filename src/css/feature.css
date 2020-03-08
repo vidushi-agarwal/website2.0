@@ -1,0 +1,58 @@
+section{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+}
+.subFeature
+{
+    border:2px solid #c8c8c8;
+    padding:1%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    max-width: 100%;
+    height:150px
+    
+}
+
+
+.subFeatureText
+{
+    /* margin-top: 5%;
+    margin-bottom: 5%; */
+    font-style: "Product Sans", sans-serif;
+    font-size: 25px;
+    transform: scale(0.8, 0.8) ;
+    line-height: 40px;
+    color:#414141;
+    letter-spacing: 0.2px;
+    font-weight:550;    
+}
+
+.articleText
+{
+    text-align: left;
+    margin-left:10%;
+}
+
+.tf1
+{
+    padding:5%;
+    width: 120%;
+    height:100%;
+    margin-top:-12%;
+}
+.tf2
+{
+    /* margin:2%; */
+}
+.gci
+{
+    margin:5%;
+}
+
+.mun
+{
+    font-family:'Satisfy','cursive';
+    font-size:25px;
+    padding:10%;
+}
